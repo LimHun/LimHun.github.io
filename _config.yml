@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+remote_theme : mmistakes/minimal-mistakes
+url                      : "https://LimHun.github.io" # the base hostname & protocol for your site e.g. "https://LimHun.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
